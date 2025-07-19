@@ -32,6 +32,18 @@ theme: minima
 plugins:
   - jekyll-feed
 
+minima:
+  skin: dark
+  social_links:
+    # twitter: jekyllrb # Keep commented out if you don't use Twitter
+    github: elijahwahlnahmias
+
+author:
+  name: Elijah Wahl
+  avatar: https://media.licdn.com/dms/image/v2/D4E03AQFp7OjPM7JRWA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1693412862712?e=1755734400&v=beta&t=bMY-kTYrm1YNQfs8P3niSCtuoIdg9SCPG1U6_NYKpkM # IMPORTANT: Double-check 'my_profile_pic.jpg' matches your exact filename!
+  email: your.email@example.com # Update this to your real professional email
+  github: elijahwahlnahmias
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
