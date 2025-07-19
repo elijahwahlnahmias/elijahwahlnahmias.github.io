@@ -37,6 +37,11 @@ minima:
   social_links:
     # twitter: jekyllrb # Keep commented out if you don't use Twitter
     github: elijahwahlnahmias
+  header_pages:
+    - about.md
+    - portfolio.md   # <-- Example: Add a link to a 'portfolio.md' page
+    - research.md    # <-- Example: Add a link to a 'research.md' page
+    - contact.md     # <-- Example: Add a link to a 'contact.md' page
 
 author:
   name: Elijah Wahl
